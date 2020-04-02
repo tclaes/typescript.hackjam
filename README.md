@@ -6,10 +6,11 @@ We intentionnally removed some typings and made the application completely fragi
 
 Your mission is to make this application as strong as possible by typing it the right way.
 
-Before starting, make sure to enable these 2 options inside your `tsconfig.json` file:
+Before starting, make sure to enable these 3 options inside your `tsconfig.json` file:
 
 - `"noImplicitAny": true,`
 - `"strictNullChecks": true`
+- `"strict": true`
 
 These 2 options will help you build good habits while working with TypeScript.
 
